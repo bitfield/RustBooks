@@ -108,7 +108,7 @@ The big difference from C and C++ is that Rust is safe by default; all memory ac
 
 ### [Introduction to Rust for Python programmers (Korean, 한국어)](https://indosaram.github.io/rust-python-book/) 
 
-The book introduces various Rusts examples and their equivalents of Python, to help understanding the core concepts of the Rust lanugage.
+The book introduces various Rusts examples and their equivalents of Python, to help understanding the core concepts of the Rust language.
 
 ### [Practical Machine Learning with Rust: Creating Intelligent Applications in Rust](https://www.amazon.com/Practical-Machine-Learning-Rust-Applications/dp/1484251202)
 
