@@ -54,11 +54,13 @@ Beginning Rust starts with the basics of Rust, including how to name objects, co
 
 Only basic knowledge of programming is required, preferably in C or C++. To understand this book, it's enough to know what integers and floating-point numbers are, and to distinguish identifiers from string literals.
 
-### [Rust Cookbook](https://www.packtpub.com/product/rust-cookbook/9781785880254) 
+### [Rust Programming Cookbook](https://www.packtpub.com/en-us/product/rust-programming-cookbook-9781789531749) 
 
-<img src="https://static.packt-cdn.com/products/9781785880254/cover/smaller" width="120px"/>
+<img src="https://content.packt.com/_/image/original/B11749/cover_image.jpg" width="120px"/>
 
-This book will help you understand the core concepts of the Rust language, enabling you to develop efficient and high-performance applications by incorporating features such as zero-cost abstraction and better memory management. Delve into advanced-level concepts such as error handling, macros, crates, and parallelism in Rust. Toward the end of the book, learn how to create HTTP servers and web services, building a strong foundational knowledge in server-side programming and enabling to deliver solutions to build high-performance and safer production-level web applications and services using Rust.
+The Rust Programming Cookbook is a practical guide to help you overcome challenges when writing Rust code. This Rust book covers recipes for configuring Rust for different environments and architectural designs, and provides solutions to practical problems. It will also take you through Rust's core concepts, enabling you to create efficient, high-performance applications that use features such as zero-cost abstractions and improved memory management. 
+
+As you progress, you'll delve into more advanced topics, including channels and actors, for building scalable, production-grade applications, and even get to grips with error handling, macros, and modularization to write maintainable code. You will then learn how to overcome common roadblocks when using Rust for systems programming, IoT, web development, and network programming. Finally, you'll discover what Rust 2018 has to offer for embedded programmers. By the end of the book, you'll have learned how to build fast and safe applications and services using Rust.
 
 ### [Rust Standard Library Cookbook](https://www.packtpub.com/product/rust-standard-library-cookbook/9781788623926)
 
@@ -144,13 +146,13 @@ Learn Rust in a Month of Lunches is a fast and friendly guide to Rust proficienc
 
 A practical book on Data Analysis with Rust Notebooks that teaches you the concepts and how they’re implemented in practice. It includes a section on getting your environment set up, and full code listings for all examples.
 
-### [Rust Web Programming ](https://www.packtpub.com/product/rust-web-programming/)
+### [Rust Web Programming ](https://www.packtpub.com/en-us/product/rust-web-programming-9781803236650)
 
-<img src="https://static.packt-cdn.com/products/9781800560819/cover/smaller" width="120px"/>
+<img src="https://content.packt.com/_/image/original/B18722/cover_image.jpg" width="120px"/>
 
-This book will take you through each stage of the web development process, showing you how to combine Rust and modern web development principles to build supercharged web apps.
+With this practical Rust book, you’ll discover how you can implement Rust on the web to achieve the desired performance and security as you learn techniques and tooling to build fully operational web apps. In this second edition, you’ll get hands-on with implementing emerging Rust web frameworks, including Actix, Rocket, and Hyper. It also features HTTPS configuration on AWS when deploying a web application and introduces you to Terraform for automating the building of web infrastructure on AWS. 
 
-You'll start with an introduction to Rust and understand how to avoid common pitfalls when migrating from traditional dynamic programming languages. The book will show you how to structure Rust code for a project that spans multiple pages and modules. Next, you'll explore the Actix Web framework and get a basic web server up and running. As you advance, you'll learn how to process JSON requests and display data from the web app via HTML, CSS, and JavaScript. You'll also be able to persist data and create RESTful services in Rust. Later, you'll build an automated deployment process for the app on an AWS EC2 instance and Docker Hub. Finally, you'll play around with some popular web frameworks in Rust and compare them.
+What’s more, this edition also covers advanced async topics. Built on the Tokio async runtime, this explores TCP and framing, implementing async systems with the actor framework, and queuing tasks on Redis to be consumed by a number of worker nodes. Finally, you’ll go over best practices for packaging Rust servers in distroless Rust Docker images with database drivers, so your servers are a total size of 50Mb each. By the end of this book, you’ll have confidence in your skills to build robust, functional, and scalable web applications from scratch.
 
 ### [Command-Line Rust: A Project-Based Primer for Writing Rust CLIs](https://learning.oreilly.com/library/view/command-line-rust/9781098109424/)
 
@@ -393,7 +395,7 @@ You'll learn:
 
 This book is intended for software developers and system programmers interested in Rust as a C/C++ alternative. This book is also available to students interested in learning systems programming using Rust. The book assumes you have prior knowledge of basic programming concepts or any other programming language.
 
-### [The Burn Book](https://burn.dev/book/overview.html) *Free*
+### [The Burn Book](https://burn.dev/burn-book/) *Free*
 
 This book will help you get started with the Burn deep learning framework.
 If you know Pytorch Burn will probably seem familiar to you.
