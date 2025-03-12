@@ -352,8 +352,6 @@ Learn:
 
 ### [Black Hat Rust](https://kerkour.com/black-hat-rust)
 
-<img src="https://kerkour.com/assets/books/black-hat-rust/black_hat_rust_cover.svg" width="120px"/>
-
 Applied offensive security with the Rust programming language, While the Rust Book does an excellent job teaching What is Rust, a book about Why and How to Rust was missing.  
 
 What are the motivations of the attackers? How can they break seemingly so easily into any network? What do they do to their victims? We will put on our black hat and explore the world of offensive security, whether it be cyber attacks, cybercrimes, or cyberwar. Scanners, exploits, phishing toolkit, implants… From theory to practice, we will explore the arcane of offensive security and build our own offensive tools with the Rust programming language, Stack Overflow’s most loved language for five years in a row.  
