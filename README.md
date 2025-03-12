@@ -352,7 +352,7 @@ Learn:
 
 ### [Black Hat Rust](https://kerkour.com/black-hat-rust)
 
-<img src="https://kerkour.com/imgs/black_hat_rust_cover.png" width="120px"/>
+<img src="https://kerkour.com/assets/books/black-hat-rust/black_hat_rust_cover.svg" width="120px"/>
 
 Applied offensive security with the Rust programming language, While the Rust Book does an excellent job teaching What is Rust, a book about Why and How to Rust was missing.  
 
