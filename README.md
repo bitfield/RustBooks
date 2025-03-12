@@ -1,4 +1,4 @@
-Awesome Rust Books [![Build Status](https://github.com/sger/RustBooks/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/sger/RustBooks/actions/workflows/main.yml) [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome Rust Books [![Build Status](https://github.com/bitfield/RustBooks/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/bitfield/RustBooks/actions/workflows/main.yml) [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ====
 
 Rust Books
@@ -458,7 +458,7 @@ The Rustc Book (full title Rustc Dev Guide) provides a guide for developers who 
 
 Contributing
 ====
-Your contributions are always welcome, just follow [the rules](https://github.com/sger/RustBooks/blob/main/CONTRIBUTING.md)!
+Your contributions are always welcome, just follow [the rules](https://github.com/bitfield/RustBooks/blob/main/CONTRIBUTING.md)!
 
 License
 ====
