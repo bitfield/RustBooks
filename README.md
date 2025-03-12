@@ -122,7 +122,7 @@ After reading Practical Machine Learning with Rust, you will have a solid unders
 
 <img src="https://images.manning.com/360/480/resize/book/9/57fa437-06ef-4a02-8070-bc33e0800c87/Gruber-HI.png" width="120px" />
 
-Rust Web Development is a hands-on guide to building server-based web applications with Rust. If you’ve built web servers using Java, C#, or PHP, you’ll instantly fall in love with the performance and development experience Rust delivers. This book shows you how to work efficiently using pure Rust, along with important Rust libraries such as tokio for async runtimes, warp for web servers and APIs, and reqwest to run external HTTP requests.
+Rust Web Development is a hands-on guide to building server-based web applications with Rust. If you’ve built web servers using Java, C#, or PHP, you’ll instantly fall in love with the performance and development experience Rust delivers. This book shows you how to work efficiently using pure Rust, along with important Rust libraries such as Tokio for async runtimes, `warp` for web servers and APIs, and `reqwest` to run external HTTP requests.
 
 You can hand this book over to your newly hired developer and onboard them with this book. It contains very practical examples and patterns, and serves as a solid foundation for future exploration into the topic.
 
@@ -216,7 +216,7 @@ Should you wish a long and happy career of writing Rust programs, you should tur
 
 There are many problems that share the same form. Due to the fact that Rust is not object-oriented, design patterns vary with respect to other object-oriented programming languages. While the details are different, since they have the same form they can be solved using the same fundamental methods.
 
-This book collects social norms of the community and demonstrates methods to solve common problems and reveals common pitfalls you will stuble upon when writing software in Rust.
+This book collects social norms of the community and demonstrates methods to solve common problems and reveals common pitfalls you will stumble upon when writing software in Rust.
 
 ### [Effective Rust](https://www.lurklurk.org/effective-rust/) *Free*
 
@@ -288,7 +288,7 @@ The book begins with a gentle introduction to help you identify bottlenecks when
 
 WebAssembly is more than just a revolutionary new technology. It’s reshaping how we build applications for the web and beyond. Where technologies like ActiveX and Flash have failed, you can now write code in whatever language you prefer and compile to WebAssembly for fast, type-safe code that runs in the browser, on mobile devices, embedded devices, and more. Combining WebAssembly’s portable, high-performance modules with Rust’s safety and power is a perfect development combination.
 
-Learn how WebAssembly’s stack machine architecture works, install low-level wasm tools and discover the dark art of writing raw wast code. Build on that foundation and learn how to compile WebAssembly modules from Rust by implementing the logic for a checkers game. Create wasm modules in Rust to interoperate with JavaScript in many compelling ways. Apply your new skills to the world of non-web hosts, and create everything from an app running on a Raspberry Pi that controls a lighting system, to a fully-functioning online multiplayer game engine where developers upload their own arena-bound WebAssembly combat modules.
+Learn how WebAssembly’s stack machine architecture works, install low-level WASM tools and discover the dark art of writing raw wast code. Build on that foundation and learn how to compile WebAssembly modules from Rust by implementing the logic for a checkers game. Create WASM modules in Rust to interoperate with JavaScript in many compelling ways. Apply your new skills to the world of non-web hosts, and create everything from an app running on a Raspberry Pi that controls a lighting system, to a fully-functioning online multiplayer game engine where developers upload their own arena-bound WebAssembly combat modules.
 
 Get started with WebAssembly today, and change the way you think about the web.
 
