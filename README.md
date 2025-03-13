@@ -205,6 +205,12 @@ Write Powerful Rust Macros is a comprehensive guide to creating macros in Rust. 
 
 The Secrets of Rust: Tools is aimed at those who have learned the basics of Rust, and would like to start writing useful programs with it. The book starts very simply, and works through developing a series of increasingly challenging projects, including a memo tool and a weather API client, guided by tests. Along the way, readers will learn some useful patterns and practices for Rust programs, and gain experience with important crates such as `clap`, `anyhow`, and `serde`.
 
+### [Rust From the Ground Up: Real World CLI Programming in Rust](https://leanpub.com/rust-from-the-ground-up)
+
+<img src="https://rftgu.rs/images/rftgu-cover-2021-200.png" width="120px"/>
+
+The Rust programming language has an incredibly steep learning curve: to write their first program, a new Rust programmer has to make a significant upfront investment in learning its unfamiliar syntax, and in understanding the concepts underpinning the language (some of them unique to Rust). Most Rust books are structured as an introduction to the languages's syntax, data structures, and functions, illustrating each with unrealistic examples. Each chapter in Rust From the Ground Up examines the original BSD sources for a well-known Unix command-line interface (CLI) program, and introduces enough Rust features to incrementally build a fully functional copy. This practical approach will gradually teach you how to write real-world code in idiomatic Rust, without overwhelming you with advanced language concepts such as lifetimes. This book flattens Rust's learning curve, showing you how to build powerful CLI applications that handle realistic conditions such as edge cases and errors. Every new Rust programmer should read Rust From the Ground Up first, enabling them to build the intuition and experience they'll need to become a confident Rust developer.
+
 **Advanced Books**
 ---
 
